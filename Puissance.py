@@ -1,2 +1,2 @@
-import math
-print(math.factorial(5))
+def puissance(x,n):
+  return pow(x,n)
