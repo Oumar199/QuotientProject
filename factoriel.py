@@ -10,5 +10,8 @@ def fact(n):
     H : n >= 0
     
     '''
-    return factorial(n)
+    import math
+    return math.factorial(n)
     
+print("a")
+print(fact(9))
