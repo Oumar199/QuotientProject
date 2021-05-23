@@ -12,6 +12,3 @@ def fact(n):
     '''
     import math
     return math.factorial(n)
-    
-print("a")
-print(fact(9))
